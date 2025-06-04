@@ -15,5 +15,3 @@ This project is a simple Online Library Management System built using C++ and Ob
 - Make sure your code compiles and runs correctly.
 - Provide any documentation or explanation of your design in `.txt` files if needed.
 
-## Submission
-Share this repository URL with your instructor for evaluation and feedback.
